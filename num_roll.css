@@ -1,0 +1,9 @@
+/* 数字滚动组件样式 */
+.num_roll {
+	width: 100%;
+	height: auto;
+}
+
+.num_roll .num{
+	transition: all 5s 0s linear;
+}
